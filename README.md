@@ -1,6 +1,7 @@
 
+![Opera_senza_titolo-removebg-preview](https://user-images.githubusercontent.com/103902805/203857886-e8b25910-ee15-44e3-b933-03c3f6f62c4e.png)
 
-![Opera senza titolo](https://user-images.githubusercontent.com/103902805/203857618-9b50ac21-562d-4fe7-bc39-580d986e2b81.jpg)
+
 
 
 
