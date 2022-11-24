@@ -1,5 +1,6 @@
 
-![Opera_senza_titolo-removebg-preview](https://user-images.githubusercontent.com/103902805/203857886-e8b25910-ee15-44e3-b933-03c3f6f62c4e.png)
+![Opera_senza_titolo-removebg-preview](https://user-images.githubusercontent.com/103902805/203857975-c7f43b23-6794-47e7-a2a1-1271f836946f.png)
+
 
 
 
