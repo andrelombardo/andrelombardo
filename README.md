@@ -8,7 +8,7 @@ I'm very happy to see you here!
 In my life i would like to become a computer engineer! <br> 
 I like the idea of being able to create something that can change the world, something that can make a difference. 🚀
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="408" height="318" margin-top="250" />
+<img align="right" alt="GIF" src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-working-on-computer-development-5214542-4357625.png" width="408" height="318" margin-top="250" />
   
 **About me:**
 
@@ -25,3 +25,6 @@ I like the idea of being able to create something that can change the world, som
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrelombardo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
+
+
+![68747470733a2f2f7468756d62732e-unscreen](https://user-images.githubusercontent.com/103902805/204088585-5a973c7a-2fbb-4636-a43f-49c89f841718.gif)
