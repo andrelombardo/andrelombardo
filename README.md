@@ -30,3 +30,8 @@ I like the idea of being able to create something that can change the world, som
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrelombardo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelombardo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+  
+
+
+
+
