@@ -9,7 +9,7 @@ I like the idea of being able to create something that can change the world, som
 
 </br>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/103902805/204089424-be2e6bc8-5180-45e5-9f56-fa4785bfcc9b.png" height="250" width="400" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/103902805/204090193-cb0a4efe-a467-4db8-8a03-3fd874aaae56.png" height="250" width="400" />
 
 **About me:**
 
@@ -26,4 +26,3 @@ I like the idea of being able to create something that can change the world, som
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrelombardo&show_icons=true&bg_color=00000000" />
 </p>
-
