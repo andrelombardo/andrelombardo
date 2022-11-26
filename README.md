@@ -4,12 +4,13 @@ I'm very happy to see you here!
 
 ![GitHub followers](https://img.shields.io/github/followers/andrelombardo?label=Follow&style=social)
 
-
 In my life i would like to become a computer engineer! <br> 
 I like the idea of being able to create something that can change the world, something that can make a difference. 🚀
 
-<img align="right" alt="GIF" src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-working-on-computer-development-5214542-4357625.png" width="408" height="318" margin-top="250" />
-  
+</br>
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/103902805/204089424-be2e6bc8-5180-45e5-9f56-fa4785bfcc9b.png" height="250" width="400" />
+
 **About me:**
 
 - 🇮🇹 &nbsp; I'm a young Italian boy;
@@ -25,6 +26,3 @@ I like the idea of being able to create something that can change the world, som
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrelombardo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
-
-
-![68747470733a2f2f7468756d62732e-unscreen](https://user-images.githubusercontent.com/103902805/204088585-5a973c7a-2fbb-4636-a43f-49c89f841718.gif)
