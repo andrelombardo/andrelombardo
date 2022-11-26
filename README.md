@@ -9,7 +9,7 @@ I like the idea of being able to create something that can change the world, som
 
 </br>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/103902805/204090193-cb0a4efe-a467-4db8-8a03-3fd874aaae56.png" height="250" width="400" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/103902805/204090193-cb0a4efe-a467-4db8-8a03-3fd874aaae56.png" height="250" width="390" />
 
 **About me:**
 
