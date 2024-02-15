@@ -14,7 +14,7 @@ I like the idea of being able to create something that can change the world, som
 **About me:**
 
 - 🇮🇹 &nbsp; I'm a young Italian boy;
-- 👨🏻‍💻 &nbsp; I'm currently studying in a computer school;
+- 👨🏻‍💻 &nbsp; 
 - 🎧 &nbsp; I really like programming, listening to music and travelling;
 - 🫱🏻‍🫲🏾 &nbsp; You can ask me anything, I'll try to help you;
 - 📧 &nbsp; How to contact me: andre.lombardo25@gmail.com.
